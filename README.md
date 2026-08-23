@@ -11,6 +11,8 @@ I’m currently learning DSA, full-stack development, and system design, while b
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs" /><br>
 </div>
+<br>
+<hr>
 <br><br><br>
 <p align="center">
   <img src="./konata.gif" alt="Miku ASCII portrait" width="100%">
