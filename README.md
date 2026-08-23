@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+^_^;" />
+</h1>
+<br>Hello! I’m Shreya :3, a 20 y.o CS undergrad. I’m a curious person who loves solving problems and exploring how things work.<br>
+I’m currently learning DSA, full-stack development, and system design, while building projects that help me understand how things actually work rather than just following tutorials.
+<br><br>If you find something interesting in my repositories, feel free to look around! :3
 
-<!--
-**luckyystar121/luckyystar121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> Tech Stack</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c++,nextjs" /><br>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<hr/>
