@@ -8,7 +8,7 @@ I’m currently learning DSA, full-stack development, and system design, while b
 <h2 align="center"> Tech Stack</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs" /><br>
 </div>
 <br>
