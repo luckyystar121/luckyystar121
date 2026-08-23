@@ -13,7 +13,7 @@ I’m currently learning DSA, full-stack development, and system design, while b
 </div>
 <br><br><br>
 <p align="center">
-  <img src="./konata.png" alt="Miku ASCII portrait" width="100%">
+  <img src="./konata.gif" alt="Miku ASCII portrait" width="100%">
 </p>
 
 <br/>
