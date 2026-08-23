@@ -12,5 +12,9 @@ I’m currently learning DSA, full-stack development, and system design, while b
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs" /><br>
 </div>
 
+<p align="center">
+  <img src="./miku.svg" alt="Miku ASCII portrait" width="100%">
+</p>
+
 <br/>
 <hr/>
