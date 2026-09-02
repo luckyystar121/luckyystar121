@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+:3;" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+:3" />
 </h1>
 <br>Hello! I’m Shreya ^_^, a 20 y.o CS undergrad. I’m a curious person who loves solving problems and exploring how things work.<br>
 I’m currently learning DSA, full-stack development, and system design, while building projects that help me understand how things actually work rather than just following tutorials.
